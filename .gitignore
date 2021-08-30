@@ -1,0 +1,9 @@
+.idea/
+python/__pycache__/
+python/frames/
+
+data/embeddings_dict_840B.pkl
+data/swav_800ep_pretrain.pth.tar
+data/moments_v2_RGB_imagenet_resnet3d50_segment16.pth.tar
+
+data/dumped_data/*
