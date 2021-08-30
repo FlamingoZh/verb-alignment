@@ -38,11 +38,6 @@ The simulation may takes several minutes to run. You would get some figure looks
 
 ```
 python python/analysis_mapping-accuracy_vs_n-image.py
-
 ```
 
 This simulation may take tens of hours to execute.
-
-// ## Advanced Usage
-
-// * 
