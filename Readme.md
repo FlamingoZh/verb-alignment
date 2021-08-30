@@ -4,10 +4,13 @@ This code provides implementations of some analyses in the paper [A Common Frame
 
 ## Recommended Python Environment
 
-Python==3.8
-Pytorch>=1.8
-scikit-learn>=0.24
-matplotlib>=3.4.2
+	Python==3.8
+
+	Pytorch>=1.8
+
+	scikit-learn>=0.24
+
+	matplotlib>=3.4.2
 
 ## Getting Started
 
@@ -28,6 +31,9 @@ Data will be stored in pkl file format (you may refer to [Python pickle module](
 ```
 python python/analyses_video.py
 ```
+
+You would get some figure looks like below in the `figs/` folder.
+
 
 4. Vary the number of visual exemplars to explore the alignment strength of the system:
 
