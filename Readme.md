@@ -13,8 +13,8 @@ matplotlib>=3.4.2
 
 1. Clone the code from github:
 ```
-	git clone https://github.com/FlamingoZh/verb-alignment.git
-    cd verb-alignment 
+git clone https://github.com/FlamingoZh/verb-alignment.git
+cd verb-alignment 
 ```
 
 Generate samples of visual and language embeddings for faster future computation:
